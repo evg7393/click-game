@@ -16,3 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ####
 Character images are not my own and used for project purposes only. 
 App is deployed in Heroku and source code is available in Github.
+https://ancient-chamber-64134.herokuapp.com/
+
+![](assets/images/click-game.JPG)
